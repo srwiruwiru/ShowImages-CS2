@@ -1,0 +1,8 @@
+{
+  "common.prefix": "[{lightred}Show{gold}Images{white}]",
+
+  "error.noPermission": "No tienes permiso para usar este comando.",
+  "error.invalidArguments": "Uso: <visibilidad> <url> <tiempo>. Visibilidad: @ct, @t o @all",
+  "error.invalidVisibility": "Visibilidad inválida. Usa: @ct, @t o @all",
+  "error.invalidDuration": "El tiempo debe ser un número mayor a 0"
+}
