@@ -7,7 +7,7 @@ using ShowImages.Commands;
 
 namespace ShowImages;
 
-[MinimumApiVersion(354)]
+[MinimumApiVersion(369)]
 public class ShowImages : BasePlugin, IPluginConfig<BaseConfig>
 {
     public override string ModuleName => "ShowImages";
